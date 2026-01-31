@@ -1,4 +1,4 @@
-# Title of the Study (Repository for PLOS ONE Submission)
+# Explainable hybrid framework for breast cancer histopathology diagnosis using wavelet decomposition and texture analysis
 
 ## Overview
 
